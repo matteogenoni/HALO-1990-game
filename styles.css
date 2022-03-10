@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    color:green;
+}
+
+  #home {
+    background-image: url("https://images.gnwcdn.com/2021/articles/2021-06-03-16-45/digitalfoundry-2021-halo-combat-evolved-season-7-master-chief-collection-1622735120728.jpg/EG11/resize/1200x-1/digitalfoundry-2021-halo-combat-evolved-season-7-master-chief-collection-1622735120728.jpg  ");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+
+.home {
+    background-color: rgb(153, 163, 115);
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    position: fixed;
+    margin: 20px;
+    z-index: 3;
+    text-align: center;
+    line-height: 30px;
+    left: 50px;
+}
+
+.instructions {
+    background-color: rgb(153, 163, 115);
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    position: fixed;
+    margin: 20px;
+    z-index: 3;
+    text-align: center;
+    line-height: 30px;
+    left: 300px;
+}
+
+.blog {
+    background-color: rgb(153, 163, 115);
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    position: fixed;
+    margin: 20px;
+    z-index: 3;
+    text-align: center;
+    line-height: 30px;
+    left: 550px;
+}
+
+.subscribe {
+    background-color: rgb(153, 163, 115);
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    position: fixed;
+    margin: 20px;
+    z-index: 3;
+    text-align: center;
+    line-height: 30px;
+    left: 800px;
+}
+
+.hints {
+    background-color: rgb(153, 163, 115);
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    position: fixed;
+    margin: 20px;
+    z-index: 3;
+    text-align: center;
+    line-height: 30px;
+    left: 1050px;
+}
+
+
+#form {
+    background-color: rgb(138, 199, 216);
+    border: 1px solid rgb(52, 107, 133);
+    width: 700px;
+    height: 500px;
+    position: fixed;
+    margin: 20px;
+    z-index: 1;
+    text-align: center;
+    line-height: 40px;
+    left: 300px;
+    top: 100px;
+}
+
+
+#hintstext {
+    border: 0px solid rgb(0, 0, 0);
+    width: 700px;
+    height: 500px;
+    position: relative;
+    margin: 20px;
+    z-index: 1;
+    text-align: center;
+    line-height: 40px;
+    left: 300px;
+    top: 100px;
+}
+
+
+#instructionstext {
+    border: 0px solid rgb(0, 0, 0);
+    width: 700px;
+    height: 500px;
+    position: relative;
+    margin: 20px;
+    z-index: 1;
+    text-align: center;
+    line-height: 40px;
+    left: 300px;
+    top: 100px;
+}
+
+
+#blogtext {
+    border: 0px solid rgb(0, 0, 0);
+    width: 700px;
+    height: 500px;
+    position: relative;
+    margin: 20px;
+    z-index: 1;
+    text-align: center;
+    line-height: 40px;
+    left: 300px;
+    top: 100px;
+}
+
+
+#subscribetext {
+    border: 0px solid rgb(0, 0, 0);
+    width: 700px;
+    height: 500px;
+    position: relative;
+    margin: 20px;
+    z-index: 1;
+    text-align: center;
+    line-height: 40px;
+    left: 300px;
+    top: 100px;
+}
+
+
+#supporttext {
+    color: rgb(255, 255, 255);
+    border: 0px solid rgb(0, 0, 0);
+    width: 700px;
+    height: 500px;
+    position: fixed;
+    margin: 20px;
+    z-index: 1;
+    text-align: center;
+    line-height: 40px;
+    left: 300px;
+    top: 100px;
+}
+
+
+.head {
+  font-size: 80px;
+  position:fixed;
+  left:300px;
+  top:250px;
+}
+
+.text {
+  position:fixed;
+  left:370px;
+  top:350px;
+}
+
+.burito {
+  position:fixed;
+  left:450px;
+  top:400px;
+}
+
+.burger {
+  position:fixed;
+  left:600px;
+  top:400px;
+}
+
+.hotdog {
+  position:fixed;
+  left:750px;
+  top:400px;
+}
+
+.footer {
+  position:fixed;
+  bottom:30px;
+  left:550px;
+}
+
+mark {
+  background-color:rgb(153, 163, 115);
+}
